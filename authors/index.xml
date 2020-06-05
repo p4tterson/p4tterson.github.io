@@ -5,85 +5,12 @@
     <link>https://p4tterson.github.io/authors/</link>
       <atom:link href="https://p4tterson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://p4tterson.github.io/img/face.jpg</url>
       <title>Authors</title>
       <link>https://p4tterson.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://p4tterson.github.io/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;John Patterson is currently a postdoctoral scholar in the Department of Psychology at Pennsylvania State University. He earned his Ph.D. from Binghamton University in 2019. He is interested in how concepts are acquired and represented, how these representations are leveraged for other tasks (e.g., decision making, inference), and how insights in each of these areas can advise applications to education and machine learning. He uses behavioral, computational, and (soon) functional imaging methods to address these questions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kenneth J. Kurtz</title>
-      <link>https://p4tterson.github.io/authors/kenneth-j.-kurtz/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/kenneth-j.-kurtz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sean Snoddy</title>
-      <link>https://p4tterson.github.io/authors/sean-snoddy/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/sean-snoddy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Landy</title>
-      <link>https://p4tterson.github.io/authors/david-landy/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/david-landy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andy R. Cavagnetto</title>
-      <link>https://p4tterson.github.io/authors/andy-r.-cavagnetto/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/andy-r.-cavagnetto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garrett Honke</title>
-      <link>https://p4tterson.github.io/authors/garrett-honke/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/garrett-honke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Marr</title>
-      <link>https://p4tterson.github.io/authors/james-marr/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/james-marr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelle Tao</title>
-      <link>https://p4tterson.github.io/authors/michelle-tao/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/michelle-tao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nolan B. Conaway</title>
-      <link>https://p4tterson.github.io/authors/nolan-b.-conaway/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://p4tterson.github.io/authors/nolan-b.-conaway/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
